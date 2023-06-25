@@ -426,6 +426,7 @@ background: #00CC99;
     width: 285px;
     height: 219px;
     flex-shrink: 0;
+
 }
 .icons{
     display: flex;
@@ -435,4 +436,11 @@ background: #00CC99;
     align-content: center;
     justify-content: space-evenly;
     padding-top: 20px;
+}
+
+.icons{
+    border-radius: 20px;
+    background: #FFF;
+/* Shadow Green */
+    box-shadow: 0px 8px 25px 0px rgba(0, 204, 153, 0.10);
 }
